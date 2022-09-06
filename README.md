@@ -1,4 +1,4 @@
-# ProjetoLoja
+# Projeto Loja
 
 A idéia do projeto foi construir um programa onde fosse possível cadastrar produtos no sistema (De maneira única e validada pelo nome, evitando duplicidades), onde, 
 esse cadastro dos produtos possuí as informações de Código (Gerado automático pelo sistema), Nome, Tipo do Produto, Peso e Quantidade a ser cadastrada. 
