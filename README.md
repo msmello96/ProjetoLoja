@@ -65,7 +65,8 @@ Seguindo a lógica do programa, temos este Menu inicial:
  > 
  9 - Opção que encerra o programa e sai do sistema.
 
-
+ > 
+ > 
 
 Considerações e planos futuros: 
 > 
